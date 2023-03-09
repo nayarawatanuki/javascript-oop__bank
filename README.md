@@ -81,7 +81,7 @@ Baixe o projeto clicando [aqui](https://github.com/nayarawatanuki/javascript-oop
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
 > - Aqruivo **``src/assets/js/index.js``**
 > - Abra o terminal, de preferencia o powershell digite os seguintes comandos: </br>
-    - `cd src/js`; </br>
+    - `cd src/assets/js`; </br>
     - `node ./index.js`;
     
 **Obs:** necessário ter o [`node.js`](https://nodejs.org/) instalado no ambiente.
