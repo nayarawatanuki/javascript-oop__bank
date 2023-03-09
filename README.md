@@ -79,7 +79,7 @@ Após baixar o projeto, você pode abrir com o VS Code (ou qualquer outra IDE). 
 Baixe o projeto clicando [aqui](https://github.com/nayarawatanuki/javascript-oop__bank/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
-> - Aqruivo **``src/js/index.js``**
+> - Aqruivo **``src/assets/js/index.js``**
 > - Abra o terminal, de preferencia o powershell digite os seguintes comandos: </br>
     - `cd src/js`; </br>
     - `node ./index.js`;
@@ -89,7 +89,7 @@ Baixe o projeto clicando [aqui](https://github.com/nayarawatanuki/javascript-oop
 </br>
 
 ## :keyboard: Tecnologias utilizadas
-![JS](https://raw.githubusercontent.com/nayarawatanuki/javascript-oop__bank/main/src/img/readme/js.PNG)</br>
+![JS](https://raw.githubusercontent.com/nayarawatanuki/javascript-oop__bank/main/src/assets/img/readme/js.PNG)</br>
 
 </br>
 
